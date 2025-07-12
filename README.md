@@ -60,7 +60,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 GOOGLE_CALLBACK_URL=http://localhost:3000/auth/google/secrets
 DATABASE_URL=your_postgresql_database_url
 ```
-##  Run the App
+## 4. Run the App
 ```
 nodemon index.js
 ```
