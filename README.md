@@ -68,7 +68,7 @@ Visit http://localhost:3000 in your browser.
 
 # 📁 Project Structure
 ```
-├── app.js
+├── index.js
 ├── views/
 │   ├── home.ejs
 │   ├── login.ejs
